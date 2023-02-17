@@ -1,4 +1,4 @@
-# Cookenu
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=700&size=40&pause=1000&color=F74A0E&width=460&height=75&lines=Cookenu+%F0%9F%8D%B4"/> </h1>
 
 ---
 ## 🚧 SOBRE
